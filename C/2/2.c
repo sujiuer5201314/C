@@ -63,8 +63,18 @@ short (短整型)
 int main()//主函数：程序的入口  有且只有一个，而且必须要有一个 (头文件)
 {
 
-    
+    /*格式占位符：将输出的数据转换成指定的格式输出    
+      printf("格式占位符",变量);
+      类型             格式占位符
+      int                 %d
+      char                %c
+      float               %f
+      double              %lf
+    */
 
+    int a = 10;
+    printf("%d",a);
+    
 
     return 0;//代码结束
 }
