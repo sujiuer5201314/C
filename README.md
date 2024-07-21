@@ -146,7 +146,7 @@
 <details>
 <summary>输入数据</summary>
 
-- 1
+- 1：
 - 定义变量
 -    int f;
 -    char g;
@@ -157,7 +157,7 @@
 - 输出数据
 -    printf("%d\n%c\n",f,g);
 - 
-- 2
+- 2：
 - 定义变量
 -    char h;
 - 
