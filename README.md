@@ -5,26 +5,90 @@
 ## 这是C基础存放文件的地方！！
 
 ### 1.[入门告诉你C的注意事项](https://github.com/sujiuer5201314/C/tree/main/C/1)
-- 注释的方法
-- 引入库的方法
-- 主函数
-- 转义字符
+
+<details>
+<summary>注释的方法</summary>
+
+</details>
+
+<details>
+<summary>引入库的方法</summary>
+
+</details>
+
+<details>
+<summary>主函数</summary>
+
+</details>
+
+<details>
+<summary>转义字符</summary>
+
+</details>
 
 ### 2.[常量变量](https://github.com/sujiuer5201314/C/tree/main/C/2)
-- 常量
-- 变量
-- 基本数据类型
-- 占位符
-- 输出数据
-- 强制转换
-- 输入数据
+
+<details>
+<summary>常量</summary>
+
+</details>
+
+<details>
+<summary>变量</summary>
+
+</details>
+
+<details>
+<summary>基本数据类型</summary>
+
+</details>
+
+<details>
+<summary>占位符</summary>
+
+</details>
+
+<details>
+<summary>输出数据</summary>
+
+</details>
+
+<details>
+<summary>强制转换</summary>
+
+</details>
+
+<details>
+<summary>输入数据</summary>
+
+</details>
 
 ### 3.[运算符](https://github.com/sujiuer5201314/C/tree/main/C/3)
-- 算数运算符
-- 自增自减运算符
-- 运算优先级
-- 关系运算
-- 逻辑运算
+
+<details>
+<summary>算数运算符</summary>
+
+</details>
+
+<details>
+<summary>自增自减运算符</summary>
+
+</details>
+
+<details>
+<summary>运算优先级</summary>
+
+</details>
+
+<details>
+<summary>关系运算</summary>
+
+</details>
+
+<details>
+<summary>逻辑运算</summary>
+
+</details>
 
 ## 许可证
 - [请遵守该证书，谢谢](https://github.com/sujiuer5201314/C/blob/main/README.md)
