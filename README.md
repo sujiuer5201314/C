@@ -65,6 +65,7 @@ a b c d
 
 <details>
 <summary>基本数据类型</summary>
+
 基本数据类型：
 int （整型）
     整形变量：存整数
