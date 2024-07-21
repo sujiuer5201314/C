@@ -4,8 +4,8 @@
 
 ## [这是C基础存放文件的地方！！](https://github.com/sujiuer5201314/C)
 
-1.[入门告诉你C的注意事项](https://github.com/sujiuer5201314/C/tree/main/C/1)
-2.[常量变量](https://github.com/sujiuer5201314/C/tree/main/C/2)
+- 1.[入门告诉你C的注意事项](https://github.com/sujiuer5201314/C/tree/main/C/1)
+- 2.[常量变量](https://github.com/sujiuer5201314/C/tree/main/C/2)
 
 ## 许可证
 - [请遵守该证书，谢谢](https://github.com/sujiuer5201314/C/blob/main/README.md)
