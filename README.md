@@ -108,5 +108,29 @@
 - [例子](https://github.com/sujiuer5201314/C/blob/main/C/3/3.5.c)
 </details>
 
+<details>
+<summary>位运算(二进制运算)</summary>
+
+- [例子]()
+</details>
+
+<details>
+<summary>赋值运算符</summary>
+
+- [例子]()
+</details>
+
+<details>
+<summary>逗号运算符</summary>
+
+- [例子]()
+</details>
+
+<details>
+<summary>条件运算符</summary>
+
+- [例子]()
+</details>
+
 ## 许可证
 - [请遵守该证书，谢谢](https://github.com/sujiuer5201314/C/blob/main/README.md)
