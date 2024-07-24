@@ -139,4 +139,4 @@
 </details>
 
 ## 许可证
-- [请遵守该证书，谢谢](https://github.com/sujiuer5201314/C/blob/main/README.md)
+- [请遵守该证书，谢谢](https://github.com/sujiuer5201314/C/blob/main/LICENSE)
