@@ -1,6 +1,8 @@
 # 关于C语言的小案例
 
+<picture>
 <img src="https://github.com/sujiuer5201314/C/blob/main/%E5%94%AF%E4%BD%A0%E6%9C%80%E4%BA%89%E6%B0%94.jpg" style="pointer-events: none;">
+</picture>
 
 # 个人档案
 
