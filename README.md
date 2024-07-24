@@ -111,25 +111,31 @@
 <details>
 <summary>位运算(二进制运算)</summary>
 
-- [例子]()
+- [例子](https://github.com/sujiuer5201314/C/blob/main/C/3/3.6.c)
 </details>
 
 <details>
 <summary>赋值运算符</summary>
 
-- [例子]()
+- [例子](https://github.com/sujiuer5201314/C/blob/main/C/3/3.7.c)
 </details>
 
 <details>
 <summary>逗号运算符</summary>
 
-- [例子]()
+- [例子](https://github.com/sujiuer5201314/C/blob/main/C/3/3.8.c)
 </details>
 
 <details>
 <summary>条件运算符</summary>
 
-- [例子]()
+- [例子](https://github.com/sujiuer5201314/C/blob/main/C/3/3.9.c)
+</details>
+
+<details>
+<summary>求类型大小</summary>
+
+- [例子](https://github.com/sujiuer5201314/C/blob/main/C/3/3.10.c)
 </details>
 
 ## 许可证
